@@ -1,4 +1,2 @@
 # WeatherAppNew
-p {
-color: red;
-}
+
